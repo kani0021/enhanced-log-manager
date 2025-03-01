@@ -1,0 +1,7 @@
+'user_id': 12345,
+    'username': 'johndoe',
+    'email': 'johndoe@example.com',
+    'password': 's3cur3p@ssw0rd',
+    'age': 30,
+    'city': 'New York',
+    'interests': ['hiking', 'photography', 'cooking'.
